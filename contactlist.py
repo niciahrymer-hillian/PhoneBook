@@ -1,0 +1,18 @@
+CONTACTS = [
+    "Amelia Martin 302-555-5821",
+    "Ava Taylor 302-555-8145",
+    "Benjamin Anderson 302-555-9302",
+    "Charlotte White 302-555-3910",
+    "Daniel Jackson 302-555-2844",
+    "Emma Johnson 302-555-2176",
+    "James Moore 302-555-7239",
+    "John Smith 302-555-1048",
+    "Joseph Thompson 302-555-6493",
+    "Matthew Harris 302-555-4675",
+    "Mia Thomas 302-555-1768",
+    "Michael Brown 302-555-3891",
+    "Olivia Davis 302-555-4420",
+    "Sophia Wilson 302-555-6014",
+    "Susie Carmicheal 349-474-8876",
+    "William Miller 302-555-5583",
+]
